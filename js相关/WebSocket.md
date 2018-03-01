@@ -54,7 +54,7 @@ socket.onopen = function(event) {
 >
 > 由于目前的IE等浏览器不支持WebSocket，要提供WebSocket的事件处理、返回传输、在服务器端使用一个统一的API，那么该怎么办呢？幸运的是，Guillermo Rauch创建了一个Socket.IO技术。
 
-## 下载socket
+## 下载socket.io
 
 
 
